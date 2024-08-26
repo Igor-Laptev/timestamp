@@ -1,0 +1,10 @@
+.postsList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.postsTitle {
+  font-size: 24px;
+  margin-bottom: 16px;
+  color: #222;
+}
